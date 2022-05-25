@@ -1,2 +1,2 @@
 # Python_Codings
-Python related files
+This repo contains python codes for basic practices.
